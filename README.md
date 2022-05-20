@@ -1,4 +1,4 @@
-# @amoutonbrady/lz-string
+# @matschik/lz-string
 
 This is a modern port of the original [lz-string](https://github.com/pieroxy/lz-string).
 
@@ -13,13 +13,13 @@ The size is much smaller and it play nicer with modern bundlers.
 ## Install
 
 ```bash
-$ npm install @amoutonbrady/lz-string
+$ npm install @matschik/lz-string
 ```
 
 ## Example
 
 ```js
-import { compress, decompress } from '@amoutonbrady/lz-string'
+import { compress, decompress } from '@matschik/lz-string'
 
 const compressed = compress('hello world')
 const decompressed = decompress(compressed)

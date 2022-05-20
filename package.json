@@ -1,5 +1,5 @@
 {
-  "name": "@amoutonbrady/lz-string",
+  "name": "@matschik/lz-string",
   "version": "0.0.1",
   "description": "Modern port of LZ-String",
   "sideEffects": false,
@@ -11,7 +11,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/amoutonbrady/lz-string.git"
+    "url": "https://github.com/matschik/lz-string.git"
   },
   "exports": {
     "import": "./dist/esm/index.js",
